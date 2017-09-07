@@ -12,3 +12,4 @@ So I used:
 ### References
 * [Hawl.js on github](https://github.com/goldfire/howler.js/#quick-start)
 * [Paper.js on github](https://github.com/paperjs/paper.js)
+* [Patatap on github](https://github.com/jonobr1/Neuronal-Synchrony)
